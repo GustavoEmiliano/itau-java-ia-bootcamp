@@ -33,6 +33,7 @@ O Bootcamp é uma formação prática com foco no desenvolvimento em Java (inclu
 ```text
 itau-java-ia-bootcamp/
 ├── README.md
+├── assets/
 ├── certificados/
 │   └── certificados.md
 └── 01-potencializando-sua-jornada-com-inteligencia-artificial-e-agentes/

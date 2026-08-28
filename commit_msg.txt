@@ -1,9 +1,5 @@
-docs: adicionar anotações da Aula 3 sobre Deep Learning e reorganizar assets
+docs: atualizar README principal e índice do Curso 02
 
-- Adição de novo tópico nas anotações do Curso 02, englobando a Aula 3 sobre Deep Learning e Redes Neurais.
-- Inserção de conceitos sobre inferência baseada no raciocínio biológico humano (exemplo da revista Pokémon).
-- Detalhamento sobre como as redes neurais artificiais criam conexões indiretas entre contextos e emoções.
-- Abordagem do conceito de Inteligência Artificial Multimodal, processando áudio, imagem e não apenas texto.
-- Explicação do uso do Deep Learning no dia a dia, como em algoritmos de streaming e redes sociais.
-- Refatoração estrutural: movimentação da imagem "rede-neural.png" para o diretório raiz "assets/" com o intuito de centralizar e padronizar recursos visuais.
-- Inclusão da imagem no arquivo de anotações com formatação padrão (título superior e fonte "Autoral 2026" inferior).
+- Adição da pasta "assets/" na representação da árvore de arquivos (Estrutura do Repositório) no README principal.
+- Atualização do README.md do Curso 02 (Fundamentos da IA Moderna) para incluir o índice com as Aulas 2 e 3.
+- Inclusão de âncoras HTML nos links do índice do Curso 02 para direcionamento preciso aos respectivos tópicos dentro do arquivo de anotações.
