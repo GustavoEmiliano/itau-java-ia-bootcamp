@@ -92,3 +92,14 @@ As principais diferenças ficaram no tom da conversa, na terceira carreira suger
 📁 **Confira as respostas completas:**
 - [Resultado ChatGPT](./exemplos/modulo-02-aula-02/Output-Transição-ChatGPT.pdf)
 - [Resultado Google Gemini](./exemplos/modulo-02-aula-02/Output-Transição-Google-Gemini.pdf)
+
+---
+
+## Aula 3: Questionário Prático (Módulo 2)
+
+**O que aprendi nesta aula:**
+Para fechar esse módulo com chave de ouro, tivemos um questionário prático avaliando os conceitos que exploramos nas últimas aulas. O teste foi totalmente focado no uso inteligente dos prompts e relembrou exatamente o caso de uso prático que fizemos: a transição de carreira misturando Psicologia e Arquitetura/CAD.
+
+Como o desafio envolvia responder questões de múltipla escolha baseadas nessa análise com as IAs e na analogia do professor, documentei separadamente todas as perguntas, as respostas que eu acertei e tirei prints de cada etapa para registrar meu progresso (incluindo o resultado final gabaritado!).
+
+🏆 *Você pode conferir o documento com o registro completo deste questionário, junto com as imagens, na nova pasta de desafios:* [Desafio do Módulo 2](./desafios/modulo-02-questionario-pratico/questionario-modulo-02.md)
