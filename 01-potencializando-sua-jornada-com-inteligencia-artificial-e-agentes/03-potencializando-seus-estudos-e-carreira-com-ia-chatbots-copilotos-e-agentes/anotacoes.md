@@ -42,3 +42,53 @@ O professor comparou isso com tirar uma dúvida com um professor na escola:
 - Se eu trago **maior clareza, riqueza de detalhes e aprofundamento/fundamentação** na minha pergunta, o professor (ou, no caso, o chatbot) consegue me dar uma resposta muito melhor e alinhada com o que eu realmente preciso. 
 
 Ou seja, para extrair o máximo do "consultor", o segredo está no detalhamento. Quanto mais rica a pergunta, mais rica a resposta!
+
+---
+
+## Aula 2: Descobrindo o Seu Caminho na Tecnologia
+
+**O que aprendi nesta aula:**
+Nesta aula, fomos colocar a mão na massa! O objetivo era conversar com alguns chatbots para descobrir uma área de tecnologia que combinasse com o meu perfil. 
+
+Para que o teste fosse justo e sem o viés de pesquisas que eu já tinha feito antes, fiz tudo em abas anônimas e sem estar logado (testei no ChatGPT e no Google Gemini, já que o Copilot e o Claude exigem login). O mais legal é que, mesmo como visitante anônimo, os modelos entregam respostas muito boas. O professor também comentou sobre recursos bem interessantes que os chatbots modernos têm, como anexar arquivos, enviar áudios e a velocidade de resposta dos modelos.
+
+O professor disponibilizou um template base de prompt para usarmos:
+
+```text
+Quero entrar na área de tecnologia, estou em transição de carreira e tenho 1h por dia para estudar.
+Meu background é em [sua área de origem, ex.: Psicologia].
+
+Me ajude a decidir por onde começar. Responda assim:
+
+1. Três áreas que combinam com meu perfil, em ordem de afinidade
+2. Uma sugestão final de qual escolher e o porquê
+3. Cinco tópicos iniciais para estudar nessa área
+
+Use linguagem simples, como se fosse uma conversa com um amigo.
+```
+
+Como eu já sou da área de T.I., para conseguir fazer o exercício prático e testar a capacidade de raciocínio do modelo na transição de carreira, tive que "inventar" um background. Resolvi simular um perfil misturando Psicologia e Arquitetura/Urbanismo. Adaptei o template para o meu cenário fictício da seguinte forma:
+
+```text
+Quero entrar na área de tecnologia, estou em transição de carreira e tenho 1h por dia para estudar.
+Meu background é em Psicologia e Arquitetura e Urbanismo, onde atualmente trabalho com desenho de peças em ferramentas CAD com um controle de qualidade industrial. Adicionalmente, gosto de aplicar técnicas de psicologia em meu dia a dia para entender melhor as pessoas e entregar as minhas demandas com mais qualidade.
+
+Me ajude a decidir por onde começar. Responda assim:
+
+1. Três áreas que combinam com meu perfil, em ordem de afinidade
+2. Uma sugestão final de qual escolher e o porquê
+3. Cinco tópicos iniciais para estudar nessa área
+
+Use linguagem simples, como se fosse uma conversa com um amigo.
+```
+
+**Minha Análise dos Resultados:**
+Ambas as IAs compartilharam uma base estrutural muito similar, respondendo diretamente ao meu cenário. As duas elegeram **UX Design** como a melhor opção (número 1), justificando que a área aproveita de imediato a empatia e pesquisa da Psicologia com o senso espacial e estético da Arquitetura. Ambas também sugeriram Gestão de Produto (Product Design) como segunda opção e traçaram uma trilha inicial de estudos praticamente idêntica (fundamentos de UX, pesquisa com usuários, arquitetura da informação e Figma).
+
+As principais diferenças ficaram no tom da conversa, na terceira carreira sugerida e no desfecho:
+- **ChatGPT:** Adotou uma postura mais analítica e profissional. Ele indicou QA (Quality Assurance) como terceira via (por causa da minha experiência atual com controle de qualidade industrial) e propôs uma validação bem concreta, sugerindo um experimento de 30 dias para eu criar um mini-projeto prático de portfólio.
+- **Google Gemini:** Usou uma linguagem muito mais informal e entusiasmada. Ele sugeriu Front-end Development como terceira alternativa (embora tenha descartado logo em seguida por causa do meu tempo escasso de estudo) e encerrou de forma mais interativa, me convidando a continuar a conversa para detalhar a rotina de estudos.
+
+📁 **Confira as respostas completas:**
+- [Resultado ChatGPT](./exemplos/modulo-02-aula-02/Output-Transição-ChatGPT.pdf)
+- [Resultado Google Gemini](./exemplos/modulo-02-aula-02/Output-Transição-Google-Gemini.pdf)

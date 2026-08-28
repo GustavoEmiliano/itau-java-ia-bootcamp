@@ -12,6 +12,7 @@ Aprender na prática como utilizar ferramentas baseadas em IA (Chatbots, Copilot
 
 ### Módulo: Pergunte e Receba Respostas Inteligentes (Chatbots)
 - [Aula 1: Como uma boa pergunta muda tudo](./anotacoes.md#aula-1-como-uma-boa-pergunta-muda-tudo)
+- [Aula 2: Descobrindo o Seu Caminho na Tecnologia](./anotacoes.md#aula-2-descobrindo-o-seu-caminho-na-tecnologia)
 
 ## ✅ Certificado
 - [Certificado de Conclusão](../../../certificados/certificados.md)
