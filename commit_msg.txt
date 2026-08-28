@@ -1,0 +1,8 @@
+docs: adicionar curso 02 sobre fundamentos da IA moderna e anotações da aula 1
+
+- Criação da pasta para o Curso 02 (Fundamentos da IA Moderna: Machine Learning, LLMs, IA Generativa e Agentes).
+- Adição do README.md específico com o objetivo e a estrutura de aulas do curso.
+- Criação do arquivo de anotações (anotacoes.md) da Aula 1.
+- Inclusão de detalhes sobre o histórico da IA, citando Alan Turing, os supercomputadores da IBM, o boom democratizador dos LLMs (GPT) e a relação prática com tecnologias comuns (como o autocomplete).
+- Atualização da tabela no README.md do Módulo 01 para referenciar o novo curso com o status de em andamento.
+- Atualização da árvore de diretórios no README.md principal para refletir a nova estrutura criada.

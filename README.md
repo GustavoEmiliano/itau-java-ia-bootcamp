@@ -36,7 +36,12 @@ itau-java-ia-bootcamp/
 ├── certificados/
 │   └── certificados.md
 └── 01-potencializando-sua-jornada-com-inteligencia-artificial-e-agentes/
-    └── 01-boas-vindas-ao-bootcamp/
+    ├── README.md
+    ├── 01-boas-vindas-ao-bootcamp/
+    │   ├── README.md
+    │   └── anotacoes.md
+    └── 02-fundamentos-da-ia-moderna-machine-learning-llms-ia-generativa-e-agentes/
+        ├── README.md
         └── anotacoes.md
 ```
 
