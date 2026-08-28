@@ -9,5 +9,6 @@ Neste módulo, o foco é preparar o terreno para a jornada na plataforma e intro
 |-------|--------|
 | [01 — Boas-vindas ao Bootcamp](./01-boas-vindas-ao-bootcamp/) | ✅ Concluído |
 | [02 — Fundamentos da IA Moderna: Machine Learning, LLMs, IA Generativa e Agentes](./02-fundamentos-da-ia-moderna-machine-learning-llms-ia-generativa-e-agentes/) | ✅ Concluído |
+| [03 — Potencializando Seus Estudos e Carreira com IA (Chatbots, Copilotos e Agentes)](./03-potencializando-seus-estudos-e-carreira-com-ia-chatbots-copilotos-e-agentes/) | 🔄 Em andamento |
 
 *(Mais cursos e anotações serão adicionados conforme o andamento do módulo)*

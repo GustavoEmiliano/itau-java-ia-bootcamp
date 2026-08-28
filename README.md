@@ -41,7 +41,10 @@ itau-java-ia-bootcamp/
     ├── 01-boas-vindas-ao-bootcamp/
     │   ├── README.md
     │   └── anotacoes.md
-    └── 02-fundamentos-da-ia-moderna-machine-learning-llms-ia-generativa-e-agentes/
+    ├── 02-fundamentos-da-ia-moderna-machine-learning-llms-ia-generativa-e-agentes/
+    │   ├── README.md
+    │   └── anotacoes.md
+    └── 03-potencializando-seus-estudos-e-carreira-com-ia-chatbots-copilotos-e-agentes/
         ├── README.md
         └── anotacoes.md
 ```

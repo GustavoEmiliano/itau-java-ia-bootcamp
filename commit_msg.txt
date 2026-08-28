@@ -1,9 +1,0 @@
-docs: adicionar anotações da Aula 4, corrigir conceito de GenAI e concluir Curso 02
-
-- Adição das anotações da Aula 4 (A Era das IAs Generativas) no arquivo do Curso 02.
-- Inclusão do contraste exato e corrigido entre os conceitos de "generativo" (criar algo novo) e "regenerativo" (recompor algo pré-existente).
-- Documentação sobre a multimodalidade das IAs Generativas e tendências como Vibe Coding/Writing.
-- Listagem das novas profissões emergentes, como Engenheiros de Prompt e Cyber Security Forense focado em IA.
-- Atualização do README do Módulo 01, alterando o status do Curso 02 para "Concluído".
-- Atualização do README do Curso 02, inserindo a Aula 4 no índice.
-- Atualização da tabela de certificados (certificados.md), incluindo o link para o novo certificado obtido no Curso 02.
