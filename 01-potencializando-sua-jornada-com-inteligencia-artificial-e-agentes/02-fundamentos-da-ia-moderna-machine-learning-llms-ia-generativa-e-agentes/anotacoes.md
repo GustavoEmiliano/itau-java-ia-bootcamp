@@ -52,3 +52,39 @@ Quando transportamos a ideia dos parâmetros da maçã para processar linguagem 
 
 - **LLM (Large Language Model - Grande Modelo de Linguagem):** São modelos treinados com bases de conhecimento massivas e bilhões de parâmetros (ex: o ChatGPT da OpenAI). Eles têm um vocabulário vasto e geral. O mercado não vive só de modelos proprietários; existe uma enorme comunidade desenvolvendo poderosos LLMs **Open Source** (código aberto).
 - **SLM (Small Language Model - Pequeno Modelo de Linguagem):** São modelos menores, treinados com um vocabulário e contexto mais restritos. Com menos parâmetros, eles são mais leves e eficientes para criar um **agente treinado** focado no reconhecimento de um objeto específico ou em uma tarefa especialista, sem precisar do peso de um LLM gigantesco.
+
+---
+
+## Aula 3: Entendendo Deep Learning
+
+**Objetivo da aula:** Revisar os conceitos de Inteligência Artificial e Machine Learning e aprofundar no funcionamento do Deep Learning (Aprendizado Profundo), compreendendo como as máquinas simulam o raciocínio humano através de redes neurais.
+
+### A Mente Humana e as Conexões
+Para entender o Deep Learning, é preciso primeiro olhar para a forma natural como nós, humanos, pensamos e processamos informações. 
+Se você observar a capa de uma revista de Pokémon, você não enxerga apenas um desenho estático. Imediatamente, sua mente faz ligações complexas: memórias de infância, jogos de videogame que você jogou, uma sensação nostálgica ou até se lembra de amigos com quem brincava. Nenhuma dessas informações está declarada ou escrita na revista; sua mente cria conexões neurais e **infere** tudo isso automaticamente.
+
+> **O que é Inferência?**
+> Inferência é o processo de raciocínio no qual se chega a uma conclusão (um conhecimento desconhecido) a partir de premissas ou observações que são consideradas verdadeiras. É a capacidade de "ler nas entrelinhas" e associar inputs não declarados diretamente.
+
+### O que é Deep Learning?
+O grande desafio da tecnologia era: como artificializar esse raciocínio profundo e cheio de inferências para a visão de uma máquina? A resposta foi a criação de **neurônios artificiais**, agrupados em uma **Rede Neural**.
+
+<div align="center">
+  <em>Esquema de uma Rede Neural</em><br>
+  <img src="../../assets/rede-neural.png" alt="Rede Neural" width="400">
+  <br>
+  <sup>Fonte: Autoral (2026)</sup>
+</div>
+
+- O **Deep Learning** é uma subárea especializada que fica dentro do "guarda-chuva" do Machine Learning.
+- Com as redes neurais, a IA consegue fazer conexões complexas e inferir outras informações. Antes, ela só conseguia afirmar rigidamente: "isso é uma revista de Pokémon". Agora, simulando um efeito de rede, um neurônio artificial conecta coisas que estão indiretamente ligadas, permitindo associações muito mais profundas (como relacionar um filme a um sentimento ou lugar).
+
+### Multimodalidade e o Dia a Dia
+Graças ao Deep Learning, a Inteligência Artificial não está mais amarrada apenas a texto (como era o caso da antiga IA Elisa). Hoje vivemos na era dos modelos **Multimodais**, onde a IA consegue processar:
+- **Imagens e Vídeos.**
+- **Áudios e Reconhecimento de Voz:** A IA agora entende nuances e tons da voz, o que permite criar conexões emocionais ou inferir sarcasmo, tristeza, etc.
+
+**Onde vemos isso na prática?**
+Esses algoritmos de raciocínio profundo já estão presentes no nosso cotidiano, principalmente recomendando coisas baseadas em inferências complexas sobre nossos gostos:
+- **Plataformas de Streaming:** Recomendam filmes e séries ligando pontos entre o que você assistiu, quanto tempo ficou na tela e o que pessoas com perfis semelhantes preferem.
+- **Redes Sociais:** O algoritmo inferindo quais tipos de conteúdos vão te prender na plataforma, fazendo milhares de ligações por segundo sobre os posts que você curte.

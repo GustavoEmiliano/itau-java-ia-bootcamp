@@ -1,7 +1,9 @@
-docs: adicionar anotações da Aula 2 sobre treinamento de IA e LLMs
+docs: adicionar anotações da Aula 3 sobre Deep Learning e reorganizar assets
 
-- Atualização das anotações do Curso 02 (Fundamentos da IA Moderna) com o conteúdo da Aula 2.
-- Adição do conceito de "Artificial" baseado em sua definição formal e sua relação com a simulação de processos humanos.
-- Inclusão do exemplo prático e tangível da maçã para ilustrar o processo de treinamento do modelo e o poder do reforço positivo (feedback).
-- Detalhamento sobre como os parâmetros, validação por tokens, identificação de inconsistências e análise de probabilidades orientam a tomada de decisão da IA.
-- Documentação das definições e distinções claras entre Grandes Modelos de Linguagem (LLMs) e Pequenos Modelos de Linguagem (SLMs), referenciando o ChatGPT, agentes especializados e opções open source.
+- Adição de novo tópico nas anotações do Curso 02, englobando a Aula 3 sobre Deep Learning e Redes Neurais.
+- Inserção de conceitos sobre inferência baseada no raciocínio biológico humano (exemplo da revista Pokémon).
+- Detalhamento sobre como as redes neurais artificiais criam conexões indiretas entre contextos e emoções.
+- Abordagem do conceito de Inteligência Artificial Multimodal, processando áudio, imagem e não apenas texto.
+- Explicação do uso do Deep Learning no dia a dia, como em algoritmos de streaming e redes sociais.
+- Refatoração estrutural: movimentação da imagem "rede-neural.png" para o diretório raiz "assets/" com o intuito de centralizar e padronizar recursos visuais.
+- Inclusão da imagem no arquivo de anotações com formatação padrão (título superior e fonte "Autoral 2026" inferior).
