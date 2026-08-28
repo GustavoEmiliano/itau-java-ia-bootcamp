@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ec7000&height=120&section=header"/>
 
 <div align="center">
-  <img align="center" alt="Itaú e DIO" width="450" src="./assets/bootcamp-logo.png">
+  <img align="center" alt="Itaú e DIO" width="300" src="./assets/bootcamp-logo.png">
   <br><br>
 </div>
 
