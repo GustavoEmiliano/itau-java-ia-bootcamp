@@ -4,7 +4,7 @@ Este documento reúne minhas anotações ao longo das aulas deste curso.
 
 ---
 
-### Módulo: Sua Jornada Começa Aqui
+### Módulo 1: Sua Jornada Começa Aqui
 
 ## Aula 1: De Chatbots a Agentes, o Caminho que Vamos Percorrer
 
@@ -23,7 +23,7 @@ Anotei que a nossa interação com a IA vai evoluir em três níveis, do mais b�
 
 ---
 
-### Módulo: Pergunte e Receba Respostas Inteligentes (Chatbots)
+### Módulo 2: Pergunte e Receba Respostas Inteligentes (Chatbots)
 
 ## Aula 1: Como uma boa pergunta muda tudo
 
@@ -103,3 +103,21 @@ Para fechar esse módulo com chave de ouro, tivemos um questionário prático av
 Como o desafio envolvia responder questões de múltipla escolha baseadas nessa análise com as IAs e na analogia do professor, documentei separadamente todas as perguntas, as respostas que eu acertei e tirei prints de cada etapa para registrar meu progresso (incluindo o resultado final gabaritado!).
 
 🏆 *Você pode conferir o documento com o registro completo deste questionário, junto com as imagens, na nova pasta de desafios:* [Desafio do Módulo 2](./desafios/modulo-02-questionario-pratico/questionario-modulo-02.md)
+
+### Módulo 3: Trabalhe Lado a Lado (Copilotos)
+
+## Aula 1: Quando a IA Entra no Fluxo de Trabalho
+
+**O que aprendi nesta aula:**
+Nesta aula, avançamos para o segundo nível de interação com a Inteligência Artificial: os **Copilotos**. Com a evolução dos conceitos que estamos estudando, ganhamos progressivamente mais autonomia. Se o chatbot (visto no módulo anterior) é como um "consultor" a quem você recorre para tirar uma dúvida pontual, o copiloto atua como um **colega de trabalho** sentado ao seu lado.
+
+O grande diferencial do copiloto é que ele enxerga o que você está fazendo em tempo real (seja escrevendo um código, um documento ou uma planilha) e sugere melhorias proativamente, corrigindo sua rota sem que você precise parar para fazer uma pergunta.
+
+**Contexto é tudo!**
+Enquanto o chatbot é limitado ao contexto daquela conversa específica, o copiloto tem acesso ao **contexto expandido da ferramenta** na qual ele está integrado. 
+
+Alguns exemplos práticos que discutimos:
+- **Google Docs com Gemini:** O copiloto consegue acessar e enriquecer sugestões baseadas no seu contexto pessoal. Você pode, por exemplo, pedir para o Gemini ler seus outros arquivos do Google Drive ou até e-mails do Gmail para sintetizar tarefas diretamente no documento que você está editando. Ele te conhece melhor e usa essas informações como referência.
+- **IDEs (Ambientes de Desenvolvimento):** Na área de programação, copilotos analisam o código que você está escrevendo e o contexto do projeto para sugerir trechos de código e otimizar o fluxo de desenvolvimento.
+
+Em resumo, a IA no formato de copiloto entra organicamente no seu fluxo de trabalho, atuando de forma colaborativa para aumentar sua produtividade de maneira contínua e inteligente.

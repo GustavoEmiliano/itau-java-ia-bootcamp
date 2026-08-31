@@ -7,13 +7,16 @@ Aprender na prática como utilizar ferramentas baseadas em IA (Chatbots, Copilot
 
 ## 📝 Aulas e Anotações
 
-### Módulo: Sua Jornada Começa Aqui
+### Módulo 1: Sua Jornada Começa Aqui
 - [Aula 1: De Chatbots a Agentes, o Caminho que Vamos Percorrer](./anotacoes.md#aula-1-de-chatbots-a-agentes-o-caminho-que-vamos-percorrer)
 
-### Módulo: Pergunte e Receba Respostas Inteligentes (Chatbots)
+### Módulo 2: Pergunte e Receba Respostas Inteligentes (Chatbots)
 - [Aula 1: Como uma boa pergunta muda tudo](./anotacoes.md#aula-1-como-uma-boa-pergunta-muda-tudo)
 - [Aula 2: Descobrindo o Seu Caminho na Tecnologia](./anotacoes.md#aula-2-descobrindo-o-seu-caminho-na-tecnologia)
 - [Aula 3: Questionário Prático](./anotacoes.md#aula-3-questionário-prático-módulo-2)
+
+### Módulo 3: Trabalhe Lado a Lado (Copilotos)
+- [Aula 1: Quando a IA Entra no Fluxo de Trabalho](./anotacoes.md#aula-1-quando-a-ia-entra-no-fluxo-de-trabalho)
 
 ## ✅ Certificado
 - [Certificado de Conclusão](../../../certificados/certificados.md)
