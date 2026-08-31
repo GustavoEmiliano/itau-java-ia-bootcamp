@@ -220,3 +220,87 @@ Aqui estão as principais mudanças que anotei:
 - **Você vira um Supervisor:** O fluxo de trabalho muda. Você explica de maneira super detalhada o que deseja que seja feito. O agente vai analisar o seu pedido e **decidir** por conta própria o que executar. O seu papel passa a ser o de um supervisor que acompanha o processo e fornece feedbacks para corrigir a rota, se necessário.
 - **Autonomia Operacional:** Nos módulos anteriores, as IAs operavam em um ambiente isolado (numa aba do navegador ou presas dentro do contexto de uma ferramenta, como a IDE ou o Word). Agora, o agente consegue ter autonomia no nível operacional da sua própria máquina! Ele pode criar arquivos, executar comandos no terminal, ou até mandar mensagens no WhatsApp (sempre respeitando as permissões que você concedeu a ele).
 - **Raciocínio Integrado (Reflexão Constante):** Esses agentes rodam em conjunto com LLMs (Large Language Models) e possuem uma capacidade fundamental: a de *avaliar suas próprias respostas*. Quando pedimos algo, o agente pode pensar, verificar se a abordagem é boa, refletir, agir e repensar. Ele entra num ciclo contínuo de pensamento e ação para chegar no melhor resultado possível de forma autônoma.
+
+---
+
+## Aula 2: Recebendo seu Workspace de Estudos Pronto
+
+**O que aprendi nesta aula:**
+Nesta aula, colocamos em prática o conceito de Agentes de IA, delegando a criação e organização completa do nosso ambiente de estudos de forma autônoma. Abaixo, dividi todo o processo em etapas para detalhar como isso aconteceu:
+
+### Etapa 1: Estruturando o Workspace
+Nesta aula, fomos para a prática com os Agentes de IA! O primeiro passo foi estruturar o nosso espaço de trabalho. Criei uma nova pasta na minha área de trabalho com o nome `potencializando-estudos-carreira-com-ia`, seguindo as instruções do curso.
+
+### Etapa 2: A Escolha do Agente (Antigravity)
+Para viabilizar o uso do agente, decidimos utilizar o **Antigravity**, uma solução de encapsulamento de agentes desenvolvida pelo Google. Uma das grandes vantagens dessa ferramenta é que ela possui um plano gratuito com limites generosos, disponibilizando modelos de ponta de diferentes provedores, como o próprio Google, Anthropic e OpenAI.
+
+### Etapa 3: O Desafio Prático e Contexto
+A tarefa era entregar o plano de estudos gerado na prática anterior e pedir para o agente materializar esse plano na nova pasta. 
+
+Utilizamos o seguinte prompt (template):
+
+```text
+Segue o plano de estudos que escrevi com a ajuda de um copiloto (é o PDF que está dentro da pasta).
+
+Materialize esse plano nesta pasta criando:
+
+1. README.md com o resumo do plano
+2. cronograma.md com o roteiro semanal (semanas 1 a 4)
+3. uma pasta "anotacoes" com um modelo "semana-01.md" para eu duplicar
+4. recursos.md com os materiais separados por semana
+
+Antes de criar, me explique brevemente sua estrutura. Depois execute.
+```
+
+> **Resultado:** Você pode conferir os arquivos reais que o agente criou a partir desse prompt acessando os links abaixo:
+> - [README.md](./exemplos/modulo-04-aula-02/potnecializando-estudos-carreira-com-ia/README.md)
+> - [cronograma.md](./exemplos/modulo-04-aula-02/potnecializando-estudos-carreira-com-ia/cronograma.md)
+> - [anotacoes/semana-01.md](./exemplos/modulo-04-aula-02/potnecializando-estudos-carreira-com-ia/anotacoes/semana-01.md)
+> - [recursos.md](./exemplos/modulo-04-aula-02/potnecializando-estudos-carreira-com-ia/recursos.md)
+
+Para dar ainda mais contexto e embasar as decisões do agente, inseri no workspace o arquivo PDF contendo o plano de estudos criado anteriormente pelo copiloto.
+
+<div align="center">
+  <em>Workspace com PDF e Prompt Colado</em><br>
+  <img src="./exemplos/modulo-04-aula-02/workspace-com-pdf-prompt-colado.png" alt="Workspace com PDF e Prompt Colado" width="600">
+  <br>
+  <sup>Fonte: Autoral (2026)</sup>
+</div>
+
+### Etapa 4: O Fluxo de Ação do Agente
+
+1. **Processamento Inicial:** Após enviar o comando e o contexto (PDF), o agente começou a refletir sobre o input, mostrando na prática o seu ciclo de raciocínio autônomo.
+
+<div align="center">
+  <em>Agente pensando no input</em><br>
+  <img src="./exemplos/modulo-04-aula-02/agente-pensando-no-input.png" alt="Agente pensando no input" width="600">
+  <br>
+  <sup>Fonte: Autoral (2026)</sup>
+</div>
+
+2. **Permissão e Segurança:** Antes de realizar alterações no meu computador (como executar comandos no terminal), o agente pediu a minha autorização expressa. Isso demonstra perfeitamente o nosso papel como "supervisor".
+
+<div align="center">
+  <em>Agente pedindo permissão</em><br>
+  <img src="./exemplos/modulo-04-aula-02/agente-pedindo-permissao.png" alt="Agente pedindo permissão" width="600">
+  <br>
+  <sup>Fonte: Autoral (2026)</sup>
+</div>
+
+3. **Plano de Execução:** Ele apresentou um resumo claro de tudo o que faria na pasta.
+
+<div align="center">
+  <em>Agente resumindo o que ia fazer</em><br>
+  <img src="./exemplos/modulo-04-aula-02/agente-resumindo-o-que-ia-fazer.png" alt="Agente resumindo o que ia fazer" width="600">
+  <br>
+  <sup>Fonte: Autoral (2026)</sup>
+</div>
+
+4. **Entrega Final:** Após a autorização, ele executou a tarefa de forma autônoma (criou os arquivos e a pasta de anotações) e, ao final, exibiu um resumo consolidado do que cada arquivo recém-criado oferecia para os meus estudos.
+
+<div align="center">
+  <em>Agente exibindo resultado</em><br>
+  <img src="./exemplos/modulo-04-aula-02/agente-exibindo-resultado.png" alt="Agente exibindo resultado" width="600">
+  <br>
+  <sup>Fonte: Autoral (2026)</sup>
+</div>

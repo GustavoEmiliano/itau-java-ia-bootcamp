@@ -23,6 +23,7 @@ Aprender na prática como utilizar ferramentas baseadas em IA (Chatbots, Copilot
 
 ### Módulo 4: Delegue e Acompanhe (Agentes)
 - [Aula 1: O Que Muda Quando a IA Decide e Executa](./anotacoes.md#aula-1-o-que-muda-quando-a-ia-decide-e-executa)
+- [Aula 2: Recebendo seu Workspace de Estudos Pronto](./anotacoes.md#aula-2-recebendo-seu-workspace-de-estudos-pronto)
 
 ## ✅ Certificado
 - [Certificado de Conclusão](../../certificados/certificados.md)
