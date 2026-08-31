@@ -21,5 +21,8 @@ Aprender na prática como utilizar ferramentas baseadas em IA (Chatbots, Copilot
 - [Aula 3: O Copiloto na Prática (E-mail e IDE)](./anotacoes.md#aula-3-o-copiloto-na-prática-e-mail-e-ide)
 - [Aula 4: Questionário Prático](./anotacoes.md#aula-4-questionário-prático-módulo-3)
 
+### Módulo 4: Delegue e Acompanhe (Agentes)
+- [Aula 1: O Que Muda Quando a IA Decide e Executa](./anotacoes.md#aula-1-o-que-muda-quando-a-ia-decide-e-executa)
+
 ## ✅ Certificado
 - [Certificado de Conclusão](../../certificados/certificados.md)

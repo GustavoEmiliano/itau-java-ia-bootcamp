@@ -200,3 +200,23 @@ Para fechar os estudos sobre Copilotos, realizamos um questionário prático que
 Assim como no módulo anterior, documentei separadamente as perguntas, as respostas que acertei e tirei prints de cada etapa para registrar meu progresso.
 
 🏆 *Você pode conferir o documento com o registro completo deste questionário na pasta de desafios:* [Desafio do Módulo 3](./desafios/modulo-03-questionario-pratico/questionario-modulo-03.md)
+
+---
+
+### Módulo 4: Delegue e Acompanhe (Agentes)
+
+## Aula 1: O Que Muda Quando a IA Decide e Executa
+
+**O que aprendi nesta aula:**
+Chegamos ao último nível da nossa jornada de interação: os **Agentes de IA**! Esse é o tópico que está mais em alta no mercado atual. A ideia de "agentes" acaba sendo abstraída por diferentes provedores em ferramentas com nomes distintos. Por exemplo: a OpenAI tem suas soluções baseadas em código (como o Codex), a Anthropic possui o Claude Code, e o Google possui o Antigravity. 
+
+**Especialização vs. Generalismo:**
+Existem agentes com especialidades distintas. Enquanto o Antigravity ou o Claude Code, por exemplo, são fortemente focados em código e desenvolvimento de software, existem outros agentes (como o OpenClaw) que possuem um viés muito mais generalista, permitindo que você resolva problemas e execute tarefas de maneira muito mais ampla.
+
+**A Grande Diferença: Autonomia e Delegação**
+Se com Chatbots nós *perguntávamos*, e com Copilotos nós trabalhávamos *lado a lado*, com os Agentes o foco principal é **delegar**. 
+
+Aqui estão as principais mudanças que anotei:
+- **Você vira um Supervisor:** O fluxo de trabalho muda. Você explica de maneira super detalhada o que deseja que seja feito. O agente vai analisar o seu pedido e **decidir** por conta própria o que executar. O seu papel passa a ser o de um supervisor que acompanha o processo e fornece feedbacks para corrigir a rota, se necessário.
+- **Autonomia Operacional:** Nos módulos anteriores, as IAs operavam em um ambiente isolado (numa aba do navegador ou presas dentro do contexto de uma ferramenta, como a IDE ou o Word). Agora, o agente consegue ter autonomia no nível operacional da sua própria máquina! Ele pode criar arquivos, executar comandos no terminal, ou até mandar mensagens no WhatsApp (sempre respeitando as permissões que você concedeu a ele).
+- **Raciocínio Integrado (Reflexão Constante):** Esses agentes rodam em conjunto com LLMs (Large Language Models) e possuem uma capacidade fundamental: a de *avaliar suas próprias respostas*. Quando pedimos algo, o agente pode pensar, verificar se a abordagem é boa, refletir, agir e repensar. Ele entra num ciclo contínuo de pensamento e ação para chegar no melhor resultado possível de forma autônoma.
