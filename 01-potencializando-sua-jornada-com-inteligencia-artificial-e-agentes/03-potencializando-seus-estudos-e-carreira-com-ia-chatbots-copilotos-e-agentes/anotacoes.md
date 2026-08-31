@@ -331,3 +331,49 @@ Para fechar a aula, exploramos um pouco do painel de configurações (Settings) 
 - **Gerenciamento de Modelos e Cotas:** Vimos onde acompanhar o uso das cotas dos modelos. Isso é fundamental para gerenciar limites nos planos gratuitos (ou gastos, no caso de quem usa APIs pagas).
 - **Notificações e Permissões:** O ambiente possui controles robustos de notificações e abas de agentes/permissões. É muito legal ter essa clareza sobre o que o agente pode ou não fazer no sistema, mantendo a segurança do nosso computador.
 - **Histórico de Chats:** Por fim, conhecemos a área de histórico de conversas do workspace, uma mão na roda para não perdermos o contexto de raciocínios anteriores com a IA.
+
+---
+
+## Aula 4: Questionário Prático (Módulo 4)
+
+**O que aprendi nesta aula:**
+Para fechar o Módulo 4 e este curso inteiro sobre IAs e Agentes, realizamos o último questionário prático focando no modelo mental necessário para delegar tarefas a um agente de forma eficaz. 
+
+As questões reforçaram bastante como um agente se difere dos chatbots e copilotos pelo seu nível de autonomia: ele realmente toma atitudes, navega e altera arquivos, o que reforça a necessidade de não conceder "acesso irrestrito", mas sim delimitar as permissões garantindo a segurança do sistema. Entender esse limite é o grande segredo para um bom uso no dia a dia.
+
+Assim como nos módulos anteriores, organizei um documento separado contendo as respostas que acertei, as justificativas para cada escolha e os prints do processo.
+
+🏆 *Você pode conferir o documento com o registro completo deste questionário final na pasta de desafios:* [Desafio do Módulo 4](./desafios/modulo-04-questionario-pratico/questionario-modulo-04.md)
+
+---
+
+## 🛠️ Anexo: Ecossistema de Ferramentas de IA
+Ao longo do módulo e através dos materiais do instrutor, anotei uma recomendação que considero fundamental: **a ferramenta escolhida importa bem menos do que dominar o conceito de cada nível de inteligência (chatbot, copiloto ou agente).**
+
+Para facilitar meus testes futuros, deixei registrado aqui o grupo de ferramentas recomendadas, separadas por categorias:
+
+### Chatbots
+- [ChatGPT](https://chat.openai.com/)
+- [Claude](https://claude.ai/)
+- [Microsoft Copilot](https://copilot.microsoft.com/)
+- [Gemini](https://gemini.google.com/)
+
+### Copilotos
+- [Google Docs com Gemini](https://docs.google.com/)
+- [Microsoft Word com Copilot](https://www.microsoft.com/microsoft-365/copilot)
+- [Notion AI](https://www.notion.com/product/ai)
+- [GitHub Copilot](https://github.com/features/copilot) (excelente para quem programa, integrado em IDEs como o [VSCode](https://code.visualstudio.com/))
+
+### Agentes
+- [Google Antigravity](https://antigravity.google/)
+- [OpenCode](https://opencode.ai/)
+- [OpenClaw](https://openclaw.ai/)
+- [Claude Code](https://code.claude.com/docs)
+- [Cursor](https://cursor.com/)
+- [Ollama](https://ollama.com/) (perfeito para rodar modelos locais integrados a qualquer agente acima)
+
+> *Insight pessoal:* Conforme fui estudando, ficou claro que muitas dessas ferramentas podem atuar tanto como copiloto quanto como agente, dependendo da forma como as utilizo. A fronteira entre elas está cada vez mais fluida, e dominar essa visão é, sem dúvidas, a maior vitória que ganho ao concluir este curso.
+
+> [!TIP]
+> **Acompanhe as Atualizações**
+> O cenário de Inteligência Artificial muda numa velocidade absurda. Ferramentas que resolvem problemas hoje podem ser superadas em poucos meses. Por isso, minha ideia é manter esse meu repositório sempre ativo, acompanhando as novidades do curso e as dicas extras. Se eu descobrir alguma IA nova que mande bem, vou atualizando aqui nas minhas anotações!

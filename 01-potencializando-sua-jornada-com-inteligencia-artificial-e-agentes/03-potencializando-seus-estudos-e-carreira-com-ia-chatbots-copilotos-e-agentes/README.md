@@ -25,6 +25,7 @@ Aprender na prática como utilizar ferramentas baseadas em IA (Chatbots, Copilot
 - [Aula 1: O Que Muda Quando a IA Decide e Executa](./anotacoes.md#aula-1-o-que-muda-quando-a-ia-decide-e-executa)
 - [Aula 2: Recebendo seu Workspace de Estudos Pronto](./anotacoes.md#aula-2-recebendo-seu-workspace-de-estudos-pronto)
 - [Aula 3: Organizando Imagens e Acessando o Browser com Agentes de IA](./anotacoes.md#aula-3-organizando-imagens-e-acessando-o-browser-com-agentes-de-ia)
+- [Aula 4: Questionário Prático](./anotacoes.md#aula-4-questionário-prático-módulo-4)
 
 ## ✅ Certificado
 - [Certificado de Conclusão](../../certificados/certificados.md)
