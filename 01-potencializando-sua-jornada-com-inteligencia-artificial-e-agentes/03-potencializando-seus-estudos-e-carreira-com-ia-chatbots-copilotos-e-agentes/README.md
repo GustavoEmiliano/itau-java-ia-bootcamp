@@ -19,6 +19,7 @@ Aprender na prática como utilizar ferramentas baseadas em IA (Chatbots, Copilot
 - [Aula 1: Quando a IA Entra no Fluxo de Trabalho](./anotacoes.md#aula-1-quando-a-ia-entra-no-fluxo-de-trabalho)
 - [Aula 2: Estruturando seu Plano com Sugestões em Tempo Real](./anotacoes.md#aula-2-estruturando-seu-plano-com-sugestões-em-tempo-real)
 - [Aula 3: O Copiloto na Prática (E-mail e IDE)](./anotacoes.md#aula-3-o-copiloto-na-prática-e-mail-e-ide)
+- [Aula 4: Questionário Prático](./anotacoes.md#aula-4-questionário-prático-módulo-3)
 
 ## ✅ Certificado
 - [Certificado de Conclusão](../../certificados/certificados.md)

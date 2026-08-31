@@ -189,3 +189,14 @@ Para dar o contexto, criei um comentário na primeira linha descrevendo "Program
 
 **Síntese Final:**
 A principal conclusão desses testes práticos é o quanto os copilotos agilizam o nosso trabalho diário sem tirar o nosso controle. Seja para redigir um e-mail profissional ou para codificar na IDE, a IA atua literalmente como uma parceira que observa o seu contexto (o texto que você começou a escrever ou o comentário em código) e antecipa os seus próximos passos. O ganho de produtividade é gigantesco, permitindo que a gente foque muito mais no raciocínio e no objetivo final do que no "trabalho braçal" de digitação.
+
+---
+
+## Aula 4: Questionário Prático (Módulo 3)
+
+**O que aprendi nesta aula:**
+Para fechar os estudos sobre Copilotos, realizamos um questionário prático que testou nossos conhecimentos sobre o funcionamento dessas ferramentas. As questões reforçaram bastante a importância de darmos um bom contexto (como comentários de código) para extrair o melhor das sugestões em tempo real, assim como a diferença progressiva de autonomia entre chatbots, copilotos e agentes.
+
+Assim como no módulo anterior, documentei separadamente as perguntas, as respostas que acertei e tirei prints de cada etapa para registrar meu progresso.
+
+🏆 *Você pode conferir o documento com o registro completo deste questionário na pasta de desafios:* [Desafio do Módulo 3](./desafios/modulo-03-questionario-pratico/questionario-modulo-03.md)
