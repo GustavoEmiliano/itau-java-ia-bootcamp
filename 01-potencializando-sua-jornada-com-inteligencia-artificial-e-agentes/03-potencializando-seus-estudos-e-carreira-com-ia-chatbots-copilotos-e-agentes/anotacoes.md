@@ -304,3 +304,30 @@ Para dar ainda mais contexto e embasar as decisões do agente, inseri no workspa
   <br>
   <sup>Fonte: Autoral (2026)</sup>
 </div>
+
+---
+
+## Aula 3: Organizando Imagens e Acessando o Browser com Agentes de IA
+
+**O que aprendi nesta aula:**
+Nesta aula, levamos a autonomia do agente para um outro nível! O foco foi delegar tarefas complexas de organização de arquivos locais e integrar a Inteligência Artificial diretamente à nossa navegação na web. 
+
+Para demonstrar a versatilidade dos provedores no Antigravity, o instrutor trocou o modelo para o **Claude 3.5 Sonnet** (da Anthropic) e iniciou duas práticas impressionantes:
+
+### Etapa 1: Organização Automática de Arquivos
+O instrutor abriu uma pasta lotada de screenshots desorganizadas e pediu para o agente organizar tudo em subpastas com base na data de criação de cada arquivo. 
+- O Claude interpretou a demanda perfeitamente e, como um bom assistente, solicitou permissão para executar um comando de filtragem no PowerShell.
+- O detalhe mais genial da execução foi a forma como ele fez isso: o agente codificou um script do zero para ler e organizar as datas, executou esse script, separou todas as imagens nas pastas corretas e, por fim, **excluiu o próprio script**! Ele fez o trabalho completo, limpou a sujeira e entregou apenas o resultado final desejado.
+
+### Etapa 2: Interação com o Browser (Navegador)
+A segunda prática envolveu o teste de uma característica incrível do Antigravity: o recurso `open browser`. Quando ativado, o agente abre uma instância do navegador e ganha acesso ao conteúdo da página em que você está navegando.
+- O instrutor abriu um artigo dentro da plataforma da DIO e enviou um desafio: pediu para o agente extrair o conteúdo e gerar um checklist estruturado em um arquivo `.md` local, para que ele pudesse ir checando cada item depois.
+- Assim que o agente recebe o prompt e começa a pensar, a tela do navegador ganha uma **borda azul**, indicando visualmente que ele está operando ali e tem acesso aos recursos daquela página.
+- O agente começou a realizar processos de scan no DOM, rolando a página, interpretando os elementos e extraindo as informações. 
+- Após analisar a página, ele gerou um *Task Plan* (plano de tarefas) detalhando o que faria. Ao final da execução, recebi meu arquivo Markdown local com o checklist impecável, enriquecido com dicas extras e referências do próprio artigo.
+
+### Etapa 3: Configurações e Customizações Avançadas
+Para fechar a aula, exploramos um pouco do painel de configurações (Settings) e do ecossistema do workspace:
+- **Gerenciamento de Modelos e Cotas:** Vimos onde acompanhar o uso das cotas dos modelos. Isso é fundamental para gerenciar limites nos planos gratuitos (ou gastos, no caso de quem usa APIs pagas).
+- **Notificações e Permissões:** O ambiente possui controles robustos de notificações e abas de agentes/permissões. É muito legal ter essa clareza sobre o que o agente pode ou não fazer no sistema, mantendo a segurança do nosso computador.
+- **Histórico de Chats:** Por fim, conhecemos a área de histórico de conversas do workspace, uma mão na roda para não perdermos o contexto de raciocínios anteriores com a IA.
