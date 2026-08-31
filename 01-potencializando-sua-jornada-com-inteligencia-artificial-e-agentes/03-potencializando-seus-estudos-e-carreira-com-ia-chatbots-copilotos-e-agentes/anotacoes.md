@@ -171,3 +171,21 @@ A IA gerou uma segunda versão muito mais enxuta, e eu fui sempre avaliando e ap
 📁 **Confira os planos de estudo gerados (salvos em PDF):**
 - [Plano de Estudos - Versão Inicial](./exemplos/modulo-03-aula-02/Output-1-Plano%20de%20Estudos%20de%2030%20Dias%20-%20UX_UI%20Design.pdf)
 - [Plano de Estudos - Versão Refinada (Objetiva e Direta)](./exemplos/modulo-03-aula-02/Output-2-Plano%20de%20Estudos%20de%2030%20Dias%20-%20UX_UI%20Design.pdf)
+
+---
+
+## Aula 3: O Copiloto na Prática (E-mail e IDE)
+
+**O que aprendi nesta aula:**
+Nesta aula, aprofundamos ainda mais o uso de copilotos no nosso dia a dia, testando na prática como a IA pode acelerar e melhorar a qualidade do nosso trabalho em diferentes ferramentas. Fizemos testes em duas frentes: na redação de e-mails e dentro do ambiente de desenvolvimento (IDE).
+
+**1. Escrevendo E-mails mais Profissionais (Gmail com IA):**
+Começamos testando a IA diretamente no e-mail. A primeira coisa que notei foi o **auto-complete inteligente** ([ver print](./exemplos/modulo-03-aula-03/01-email-auto-complete.png)): ao começar a digitar algumas palavras, a IA já sugeria o complemento da frase, o que agiliza muito a escrita. 
+Além disso, ao terminar de escrever a mensagem, utilizei a opção de **melhorar o texto com a IA do Gemini** ([ver print](./exemplos/modulo-03-aula-03/02-email-melhorar-texto.png)), que é acionada facilmente usando a tecla Tab. O resultado foi incrível: o Gemini pegou a minha mensagem original e gerou um e-mail muito mais bem redigido e polido ([ver resultado pós-melhoria](./exemplos/modulo-03-aula-03/03-email-resultado-melhoria.png)). É uma funcionalidade excelente para trazer mais qualidade e profissionalismo para a nossa comunicação diária.
+
+**2. Codificando com um Copiloto na IDE (IntelliJ):**
+O próximo teste foi no meu "habitat natural", a IDE! Escolhi utilizar o IntelliJ e simulei um exemplo simples de um programa para somar dois números. 
+Para dar o contexto, criei um comentário na primeira linha descrevendo "Programa que soma dois números". A partir desse comentário, o copiloto entrou em ação instantaneamente: ele foi me dando o **auto-complete das variáveis** ([ver print](./exemplos/modulo-03-aula-03/04-ide-auto-complete-variaveis.png)) que eu precisava criar e, em seguida, já sugeriu o **método de soma** completo ([ver print](./exemplos/modulo-03-aula-03/05-ide-auto-complete-metodo.png)), escrevendo a lógica que faria a soma e já exibiria o resultado dessas duas variáveis. Tudo isso em tempo real!
+
+**Síntese Final:**
+A principal conclusão desses testes práticos é o quanto os copilotos agilizam o nosso trabalho diário sem tirar o nosso controle. Seja para redigir um e-mail profissional ou para codificar na IDE, a IA atua literalmente como uma parceira que observa o seu contexto (o texto que você começou a escrever ou o comentário em código) e antecipa os seus próximos passos. O ganho de produtividade é gigantesco, permitindo que a gente foque muito mais no raciocínio e no objetivo final do que no "trabalho braçal" de digitação.
