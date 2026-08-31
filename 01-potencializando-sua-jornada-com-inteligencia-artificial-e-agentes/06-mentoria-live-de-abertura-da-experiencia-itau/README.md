@@ -23,4 +23,4 @@ Como já possuo vivência com Java e desenvolvimento backend, as discussões da 
 
 ## ✅ Certificado
 Pela participação na mentoria de abertura, foi concedido um certificado de conclusão. Você pode visualizar o registro oficial na página de certificados:
-- [Certificado de Conclusão](../../../certificados/certificados.md)
+- [Certificado de Conclusão](../../certificados/certificados.md)

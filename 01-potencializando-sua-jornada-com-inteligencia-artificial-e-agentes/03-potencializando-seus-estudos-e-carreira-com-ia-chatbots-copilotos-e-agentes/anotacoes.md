@@ -90,8 +90,8 @@ As principais diferenças ficaram no tom da conversa, na terceira carreira suger
 - **Google Gemini:** Usou uma linguagem muito mais informal e entusiasmada. Ele sugeriu Front-end Development como terceira alternativa (embora tenha descartado logo em seguida por causa do meu tempo escasso de estudo) e encerrou de forma mais interativa, me convidando a continuar a conversa para detalhar a rotina de estudos.
 
 📁 **Confira as respostas completas:**
-- [Resultado ChatGPT](./exemplos/modulo-02-aula-02/Output-Transição-ChatGPT.pdf)
-- [Resultado Google Gemini](./exemplos/modulo-02-aula-02/Output-Transição-Google-Gemini.pdf)
+- [Resultado ChatGPT](./exemplos/modulo-02-aula-02/Output-Transicao-ChatGPT.pdf)
+- [Resultado Google Gemini](./exemplos/modulo-02-aula-02/Output-Transicao-Google-Gemini.pdf)
 
 ---
 
@@ -121,3 +121,53 @@ Alguns exemplos práticos que discutimos:
 - **IDEs (Ambientes de Desenvolvimento):** Na área de programação, copilotos analisam o código que você está escrevendo e o contexto do projeto para sugerir trechos de código e otimizar o fluxo de desenvolvimento.
 
 Em resumo, a IA no formato de copiloto entra organicamente no seu fluxo de trabalho, atuando de forma colaborativa para aumentar sua produtividade de maneira contínua e inteligente.
+
+---
+
+## Aula 2: Estruturando seu Plano com Sugestões em Tempo Real
+
+**O que aprendi nesta aula:**
+Nesta aula, fomos para a prática! Após entender o conceito de Copilotos, testamos o **Gemini** integrado diretamente no **Google Docs** para montar um plano de estudos personalizado. A premissa foi usar a IA para coletar informações no meu próprio ecossistema (Gmail e Drive) e me ajudar a planejar o estudo da área que escolhi no módulo anterior.
+
+**Passo a passo da prática:**
+1. Criei um novo arquivo em branco no Google Docs.
+2. Acessei a ferramenta "Escrever com o Gemini" (Help me write).
+3. Utilizei o template de prompt sugerido e adaptei para o meu cenário. 
+
+Como no módulo anterior eu havia simulado uma transição para **UX/UI Design**, colei os 5 tópicos iniciais mapeados e estruturei o meu prompt final assim:
+
+```text
+Crie um plano de estudos de 30 dias para mim.
+
+Área escolhida: UX/UI Design (User Experience / User Interface) 
+Tópicos iniciais: 
+1. Design Thinking: Entenda o processo de empatia, definição, idealização e prototipagem. É o "esqueleto" de como se resolve problemas em tech.
+2. Psicologia Cognitiva aplicada ao Design: Estude como as pessoas percebem cores, formas e hierarquia de informação (leis da Gestalt, por exemplo).
+3. Arquitetura da Informação: Como organizar o conteúdo de forma lógica (muito parecido com planejar o fluxo de pessoas em um prédio!).
+4. Pesquisa com Usuário (User Research): Como entrevistar pessoas e observar comportamentos para validar se sua ideia faz sentido.
+5. Figma (Ferramenta): É o "CAD" do designer de tecnologia. Comece a brincar com ele; é gratuito e a ferramenta padrão do mercado hoje.
+
+Estruture com:
+- Meu objetivo
+- Cronograma semanal (semanas 1 a 4) distribuindo os tópicos
+- Materiais e referências por semana, priorizando o conteúdo da formação UX Designer da DIO (https://www.dio.me/curso-ux-design)
+
+Considere conteúdos sobre essa área que estejam nos meus emails ou no meu Drive.
+Sugerindo assim, materiais que já fazem parte do meu contexto (sem expor dados sensíveis, como nomes de empresas e produtos).
+```
+
+**Análise e Refinamento dos Resultados:**
+A experiência foi fantástica! A IA começou a vasculhar minhas informações do Gmail e Drive e montou um cronograma perfeitamente alinhado com o meu contexto e referências pré-existentes. 
+
+> [!TIP]
+> **O copiloto te conhece, o chatbot não:** Ao pedir que o copiloto considere seus e-mails e arquivos, ele pode incluir cursos em que você já se inscreveu, newsletters ou documentos salvos. Essa é a grande diferença entre um chatbot convencional e um copiloto integrado ao seu ambiente!
+
+O grande aprendizado aqui foi sobre o **refinamento interativo**: o copiloto não entrega apenas um resultado estático. Conforme ajustamos o plano, pude fazer o seguinte:
+- **Sugestões em tempo real:** Ao digitar no documento, o copiloto sugere continuações que se adaptam ao meu jeito de escrever (basta aceitar as que fazem sentido e ignorar as outras).
+- **Reescrever trechos pontuais:** Selecionei parágrafos específicos e pedi, por exemplo: *"Reescreva este trecho de forma mais clara e motivadora"*. Pedi também uma síntese mais coesa, resumida e direta de todo o plano. 
+
+A IA gerou uma segunda versão muito mais enxuta, e eu fui sempre avaliando e aprovando as alterações num verdadeiro fluxo de trabalho "lado a lado". Ao final, exportei os resultados em PDF para registrar os planos de estudos gerados.
+
+📁 **Confira os planos de estudo gerados (salvos em PDF):**
+- [Plano de Estudos - Versão Inicial](./exemplos/modulo-03-aula-02/Output-1-Plano%20de%20Estudos%20de%2030%20Dias%20-%20UX_UI%20Design.pdf)
+- [Plano de Estudos - Versão Refinada (Objetiva e Direta)](./exemplos/modulo-03-aula-02/Output-2-Plano%20de%20Estudos%20de%2030%20Dias%20-%20UX_UI%20Design.pdf)

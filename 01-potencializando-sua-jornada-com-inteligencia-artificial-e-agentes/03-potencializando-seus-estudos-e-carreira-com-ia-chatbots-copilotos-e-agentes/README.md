@@ -17,6 +17,7 @@ Aprender na prática como utilizar ferramentas baseadas em IA (Chatbots, Copilot
 
 ### Módulo 3: Trabalhe Lado a Lado (Copilotos)
 - [Aula 1: Quando a IA Entra no Fluxo de Trabalho](./anotacoes.md#aula-1-quando-a-ia-entra-no-fluxo-de-trabalho)
+- [Aula 2: Estruturando seu Plano com Sugestões em Tempo Real](./anotacoes.md#aula-2-estruturando-seu-plano-com-sugestões-em-tempo-real)
 
 ## ✅ Certificado
-- [Certificado de Conclusão](../../../certificados/certificados.md)
+- [Certificado de Conclusão](../../certificados/certificados.md)
