@@ -13,4 +13,4 @@ Compreender a evolução da Inteligência Artificial, explorando desde as suas o
 - [Aula 4: A Era das IAs Generativas](./anotacoes.md#aula-4-a-era-das-ias-generativas)
 
 ## ✅ Certificado
-- [Certificado de Conclusão](../../certificados/certificados.md)
+- [Certificado de Conclusão](./certificado/certificado-fundamentos-da-ia-moderna.pdf)

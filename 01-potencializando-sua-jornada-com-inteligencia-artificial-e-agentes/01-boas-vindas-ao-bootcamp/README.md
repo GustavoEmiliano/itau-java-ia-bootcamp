@@ -10,4 +10,4 @@ Apresentar a plataforma da DIO, explicar o funcionamento do bootcamp, dar dicas 
 - [Aula 1: Vídeo de Introdução e Boas-vindas](./anotacoes.md)
 
 ## ✅ Certificado
-- [Certificado de Conclusão](../../certificados/certificados.md)
+- [Certificado de Conclusão](./certificado/certificado-boas-vindas.pdf)

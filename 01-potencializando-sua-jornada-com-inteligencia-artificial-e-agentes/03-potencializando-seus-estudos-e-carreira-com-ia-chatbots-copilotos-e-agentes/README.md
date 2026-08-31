@@ -28,4 +28,4 @@ Aprender na prática como utilizar ferramentas baseadas em IA (Chatbots, Copilot
 - [Aula 4: Questionário Prático](./anotacoes.md#aula-4-questionário-prático-módulo-4)
 
 ## ✅ Certificado
-- [Certificado de Conclusão](../../certificados/certificados.md)
+- [Certificado de Conclusão](./certificado/certificado-potencializando-seus-estudos.pdf)
