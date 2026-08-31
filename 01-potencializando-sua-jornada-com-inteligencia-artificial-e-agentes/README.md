@@ -7,9 +7,9 @@ Neste módulo, o foco é preparar o terreno para a jornada na plataforma e intro
 
 | Curso | Status |
 |-------|--------|
-| [01 — Boas-vindas ao Bootcamp](./01-boas-vindas-ao-bootcamp/) | ✅ Concluído |
+| [01 — Boas-vindas ao Bootcamp Itaú - Java com Inteligência Artificial](./01-boas-vindas-ao-bootcamp/) | ✅ Concluído |
 | [02 — Fundamentos da IA Moderna: Machine Learning, LLMs, IA Generativa e Agentes](./02-fundamentos-da-ia-moderna-machine-learning-llms-ia-generativa-e-agentes/) | ✅ Concluído |
-| [03 — Potencializando Seus Estudos e Carreira com IA (Chatbots, Copilotos e Agentes)](./03-potencializando-seus-estudos-e-carreira-com-ia-chatbots-copilotos-e-agentes/) | 🔄 Em andamento |
+| [03 — Potencializando Seus Estudos e Carreira com IA (Chatbots, Copilotos e Agentes)](./03-potencializando-seus-estudos-e-carreira-com-ia-chatbots-copilotos-e-agentes/) | ✅ Concluído |
+| [04 — Introdução à Engenharia de Prompts](./04-introducao-a-engenharia-de-prompts/) | ⏳ Pendente |
+| [05 — DIO Agent: Nunca Mais Estude Sozinho](./05-dio-agent-nunca-mais-estude-sozinho/) | ⏳ Pendente |
 | [06 — Mentoria: Live de Abertura da Experiência Itaú](./06-mentoria-live-de-abertura-da-experiencia-itau/) | ✅ Concluído |
-
-*(Mais cursos e anotações serão adicionados conforme o andamento do módulo)*

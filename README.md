@@ -23,8 +23,11 @@ O Bootcamp é uma formação prática com foco no desenvolvimento em Java (inclu
 | Módulo | Tema | Status |
 |--------|------|--------|
 | [01 — Potencializando Sua Jornada com Inteligência Artificial e Agentes](./01-potencializando-sua-jornada-com-inteligencia-artificial-e-agentes/) | Introdução, ambientação na plataforma e primeiros passos | 🔄 Em andamento |
+| 02 — Fundamentos para Começar a Programar em Java | Java, Sintaxe e Lógica | ⏳ Pendente |
+| 03 — Programando o Mundo Real com Orientação a Objetos em Java | POO, Collections, Exceptions | ⏳ Pendente |
+| 04 — Fundamentos da Web e Boas Práticas de Desenvolvimento com Java | API, SOLID, Design Patterns | ⏳ Pendente |
+| 05 — Criando APIs Modernas no Ecossistema Spring | Spring Boot, Data, Security, Cloud, AI | ⏳ Pendente |
 
-*(Acesse o diretório de cada módulo para visualizar os cursos e certificados)*
 
 ---
 
@@ -40,13 +43,20 @@ itau-java-ia-bootcamp/
     ├── README.md
     ├── 01-boas-vindas-ao-bootcamp/
     │   ├── README.md
-    │   └── anotacoes.md
+    │   ├── anotacoes.md
+    │   └── certificado/
     ├── 02-fundamentos-da-ia-moderna-machine-learning-llms-ia-generativa-e-agentes/
     │   ├── README.md
-    │   └── anotacoes.md
-    └── 03-potencializando-seus-estudos-e-carreira-com-ia-chatbots-copilotos-e-agentes/
+    │   ├── anotacoes.md
+    │   └── certificado/
+    ├── 03-potencializando-seus-estudos-e-carreira-com-ia-chatbots-copilotos-e-agentes/
+    │   ├── README.md
+    │   ├── anotacoes.md
+    │   ├── desafios/
+    │   └── exemplos/
+    └── 06-mentoria-live-de-abertura-da-experiencia-itau/
         ├── README.md
-        └── anotacoes.md
+        └── certificado/
 ```
 
 ---
