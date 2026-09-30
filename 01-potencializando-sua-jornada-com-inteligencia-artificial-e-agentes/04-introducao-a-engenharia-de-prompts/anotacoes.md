@@ -135,14 +135,15 @@ Como os modelos processam os nossos comandos, de fato? Quando enviamos um prompt
    ```
    A frase acima é traduzida pelo algoritmo em uma lista de exatos **24 tokens** (considerando modelos GPT-5.x & O1/3).
 
-<br>
-<div align="center">
-  <em>Análise de Tokens: OpenAI Tokenizer</em><br>
-  <img src="./exemplos/modulo-02-aula-01/resultado-tokenizer.png" alt="Resultado do Tokenizer da OpenAI" width="600">
-  <br>
-  <sup>Fonte: Autoral (2026)</sup>
-</div>
-<br>
+   <br>
+   <div align="center">
+     <em>Análise de Tokens: OpenAI Tokenizer</em><br>
+     <img src="./exemplos/modulo-02-aula-01/resultado-tokenizer.png" alt="Resultado do Tokenizer da OpenAI" width="600">
+     <br>
+     <sup>Fonte: Autoral (2026)</sup>
+   </div>
+   <br>
+
 2. **Embeddings:** Os tokens gerados são convertidos em "embeddings", que são representações vetoriais matemáticas capazes de capturar o significado profundo daquela palavra.
 3. **Processamento nas Camadas:** Esses embeddings passam pelas camadas das redes neurais com transformadores, operando para compreender o sentido e o contexto final da sua frase.
 4. **Previsão (Cálculo Probabilístico):** Por fim, a IA não "escreve" pensando; ela gera uma distribuição de probabilidades para tentar adivinhar matematicamente qual será o próximo token da resposta. Esse loop de previsão se repete constantemente até completar a resposta enviada a nós!
