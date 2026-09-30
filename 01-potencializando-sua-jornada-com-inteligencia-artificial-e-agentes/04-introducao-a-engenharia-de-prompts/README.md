@@ -10,6 +10,7 @@ Compreender os fundamentos da Engenharia de Prompts e aprender na prática como 
 ### Módulo 1: Introdução
 - [Aula 1: Por que aprender Engenharia de Prompts?](./anotacoes.md#aula-1-por-que-aprender-engenharia-de-prompts)
 - [Aula 2: O que você precisa para começar?](./anotacoes.md#aula-2-o-que-você-precisa-para-começar)
+- [Aula 3: O que vamos explorar neste curso?](./anotacoes.md#aula-3-o-que-vamos-explorar-neste-curso)
 
 ---
 *(Mais aulas e notas serão adicionadas conforme o andamento do curso)*

@@ -84,3 +84,23 @@ No entanto, é muito importante ter noções básicas sobre dois pilares que dã
 Ao longo das próximas aulas, a instrutora pontuou que vamos utilizar ferramentas de mercado que abstraem essa parte técnica pesada e facilitam a nossa interação direta com a IA. Entre elas, focaremos bastante no:
 - **ChatGPT** (da OpenAI)
 - **Microsoft Copilot**
+
+---
+
+## Aula 3: O que vamos explorar neste curso?
+
+**O que aprendi nesta aula:**
+Nesta aula, a instrutora apresentou um panorama (overview) completo de tudo o que vamos aprender. O conteúdo do curso foi dividido para nos ajudar a elevar a qualidade dos nossos prompts ao próximo nível, passando pelos seguintes pilares:
+
+1. **Visão Geral e Funcionamento da IA:**
+   - Como os modelos de linguagem realmente "entendem" um prompt.
+   - Como funciona o processamento dessas informações através de **Tokens**.
+   - Como as IAs conseguem lembrar do que foi dito anteriormente na conversa, através do conceito de **Janela de Contexto**.
+
+2. **A Arte de Formular um Bom Prompt:**
+   - Quais são os elementos essenciais para estruturar um comando perfeito.
+   - Como exemplo prático, veremos a criação de uma história e ambientação para um RPG de mesa!
+
+3. **Aplicações Práticas e Cuidados:**
+   - Como utilizar a Engenharia de Prompts no dia a dia, tanto para otimizar tarefas da vida pessoal quanto da vida profissional.
+   - **Cuidados na aplicação:** Um alerta muito importante sobre os riscos, limitações e boas práticas ao usar os modelos de IA.
