@@ -12,5 +12,8 @@ Compreender os fundamentos da Engenharia de Prompts e aprender na prática como 
 - [Aula 2: O que você precisa para começar?](./anotacoes.md#aula-2-o-que-você-precisa-para-começar)
 - [Aula 3: O que vamos explorar neste curso?](./anotacoes.md#aula-3-o-que-vamos-explorar-neste-curso)
 
+### Módulo 2: Visão Geral da Engenharia de Prompts
+- [Aula 1: Como os Modelos de Linguagem "Entendem" um Prompt?](./anotacoes.md#aula-1-como-os-modelos-de-linguagem-entendem-um-prompt)
+
 ---
 *(Mais aulas e notas serão adicionadas conforme o andamento do curso)*
