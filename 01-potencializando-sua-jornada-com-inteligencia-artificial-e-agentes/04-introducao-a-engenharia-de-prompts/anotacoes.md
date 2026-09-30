@@ -68,3 +68,19 @@ Com base nesse teste prático, ficou evidente que a qualidade do prompt influenc
 > - Gerar ideias criativas para novos projetos.
 > 
 > Usando a Engenharia de Prompts de maneira inteligente, o principal ganho é conseguir poupar um tempo e um esforço absurdos no dia a dia.
+
+---
+
+## Aula 2: O que você precisa para começar?
+
+**O que aprendi nesta aula:**
+Nesta aula, discutimos sobre os pré-requisitos para começar na Engenharia de Prompts. A mensagem principal é que **não é necessário ser um especialista em Inteligência Artificial** para aprender e utilizar essa habilidade no dia a dia.
+
+No entanto, é muito importante ter noções básicas sobre dois pilares que dão base a tudo:
+- **Processamento de Linguagem Natural (PLN):** É a área da Inteligência Artificial que trata da interação entre máquinas e a linguagem humana. É essa tecnologia que permite que o computador entenda o texto que escrevemos.
+- **Modelos de Linguagem de Grande Escala (LLMs):** São modelos treinados com volumes gigantescos de dados textuais para conseguir gerar e entender textos de forma incrivelmente eficiente, com uma semântica muito próxima à nossa.
+
+**Ferramentas Práticas:**
+Ao longo das próximas aulas, a instrutora pontuou que vamos utilizar ferramentas de mercado que abstraem essa parte técnica pesada e facilitam a nossa interação direta com a IA. Entre elas, focaremos bastante no:
+- **ChatGPT** (da OpenAI)
+- **Microsoft Copilot**
