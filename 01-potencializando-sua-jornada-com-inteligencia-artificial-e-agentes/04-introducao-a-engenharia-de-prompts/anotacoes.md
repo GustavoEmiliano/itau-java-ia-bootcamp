@@ -149,3 +149,67 @@ Como os modelos processam os nossos comandos, de fato? Quando enviamos um prompt
 4. **Previsão (Cálculo Probabilístico):** Por fim, a IA não "escreve" pensando; ela gera uma distribuição de probabilidades para tentar adivinhar matematicamente qual será o próximo token da resposta. Esse loop de previsão se repete constantemente até completar a resposta enviada a nós!
 
 Tendo entendido de maneira simplificada como os modelos entendem um prompt, na próxima aula vamos explorar como funciona a memória dessas Inteligências Artificiais.
+
+---
+
+## Aula 2: Como os Modelos de Linguagem "Lembram" do que foi Dito?
+
+**O que aprendi nesta aula:**
+Nesta aula, aprofundamos no conceito de memória das Inteligências Artificiais. A premissa básica é simples: em geral, os modelos de IA **não possuem memória persistente** entre interações. Isso significa que, depois que uma conversa (chat) termina ou é fechada, a IA não lembra do que foi dito ali em conversas futuras.
+
+No entanto, *dentro de uma mesma conversa ativa*, o modelo consegue manter a fluidez e o histórico graças à sua **Janela de Contexto**.
+
+**O que é a Janela de Contexto?**
+A janela de contexto é o limite máximo de tokens que o modelo consegue processar simultaneamente (incluindo o seu prompt e a resposta dele). Esse limite de "memória de curto prazo" varia bastante de acordo com o modelo utilizado.
+
+> **Analogia da Lousa do Professor:**
+> Pense na janela de contexto como a lousa de uma sala de aula. O espaço é limitado. Conforme o professor (nós) vai escrevendo informações e o quadro vai enchendo, chega um momento em que não há mais espaço. Para escrever uma informação nova, ele obrigatoriamente precisa **apagar o que foi escrito no início**. Da mesma forma, quando o limite de tokens da janela de contexto é alcançado, a IA vai "esquecendo" (descartando) os tokens mais antigos para dar lugar aos mais novos na conversa.
+
+**Teste Prático: Provando a Janela de Contexto no ChatGPT**
+Fizemos um teste prático no ChatGPT para ver esse mecanismo de memória em ação:
+
+1. **Prompt Isolado (Genérico):**
+   Primeiro, perguntamos sem nenhum contexto prévio: *"Em poucas palavras, o que é aliança?"*
+   O modelo deu uma resposta genérica (de dicionário), definindo aliança como um acordo ou pacto entre pessoas/países ou um anel de compromisso.
+   
+   <br>
+   <div align="center">
+     <em>Passo 1: Resposta genérica para "Aliança"</em><br>
+     <img src="./exemplos/modulo-02-aula-02/prompt-alianca-no-chatgpt.png" alt="Prompt aliança no ChatGPT" width="600">
+     <br>
+     <sup>Fonte: Autoral (2026)</sup>
+   </div>
+   <br>
+
+2. **Inserindo Contexto na "Lousa":**
+   Em seguida, na mesma conversa, mudamos de assunto e perguntamos: *"O que é Azeroth?"*
+   O modelo respondeu perfeitamente que Azeroth é o mundo fictício onde se passa a maior parte da história do jogo *World of Warcraft*.
+   
+   <br>
+   <div align="center">
+     <em>Passo 2: Inserindo o contexto (World of Warcraft)</em><br>
+     <img src="./exemplos/modulo-02-aula-02/prompt-azeroth-no-chatgpt.png" alt="Prompt Azeroth no ChatGPT" width="600">
+     <br>
+     <sup>Fonte: Autoral (2026)</sup>
+   </div>
+   <br>
+
+3. **Repetindo o Prompt com a Janela de Contexto Ativa:**
+   Logo após a explicação sobre Azeroth, perguntamos novamente: *"O que é aliança?"*.
+   Desta vez, como a resposta sobre WoW estava viva na janela de contexto, o modelo **usou a informação anterior** para entender a intenção e respondeu que a "Aliança" é uma das facções de jogadores de *World of Warcraft*!
+   
+   <br>
+   <div align="center">
+     <em>Passo 3: A IA conectando a pergunta ao contexto anterior</em><br>
+     <img src="./exemplos/modulo-02-aula-02/prompt-alianca-contexto-azeroth.png" alt="Prompt aliança com contexto Azeroth" width="600">
+     <br>
+     <sup>Fonte: Autoral (2026)</sup>
+   </div>
+   <br>
+
+**Atenção aos Limites e Alternativas:**
+Se essa mesma conversa sobre jogos se prolongasse por muitas interações, o assunto "Azeroth" eventualmente seria apagado da "lousa" (alcançaria o limite da janela). Caso isso acontecesse, o modelo voltaria a dar respostas genéricas para "aliança" e nós precisaríamos **reforçar as informações mais importantes** no prompt para manter o foco.
+
+Existem hoje funcionalidades extras para contornar isso, como a função de *Memória* e *Instruções Personalizadas* (Custom Instructions) do ChatGPT, que permitem salvar preferências ou diretrizes fixas que o modelo nunca vai apagar da sua lousa.
+
+Na próxima aula, vamos juntar tudo o que vimos até aqui e aprender quais são os elementos essenciais que compõem um bom prompt!
