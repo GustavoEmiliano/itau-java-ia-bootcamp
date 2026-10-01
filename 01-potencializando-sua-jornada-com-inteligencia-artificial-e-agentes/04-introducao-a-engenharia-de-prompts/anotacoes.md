@@ -256,3 +256,16 @@ Quando enviamos esse prompt super estruturado para a LLM, notamos que o modelo s
   <sup>Fonte: Autoral (2026)</sup>
 </div>
 <br>
+
+---
+
+## Aula 4: Questionário Prático (Módulo 2)
+
+**O que aprendi nesta aula:**
+Para fechar o Módulo 2 ("Visão Geral da Engenharia de Prompts"), realizamos um questionário prático com foco nos fundamentos teóricos que exploramos até aqui.
+
+O desafio englobou o funcionamento técnico dos modelos de linguagem, a mecânica da janela de contexto e os pilares de um bom prompt. Avaliamos nossa compreensão sobre como o uso de cálculo probabilístico, instruções claras e contextos bem definidos alteram completamente o resultado de uma interação com as LLMs.
+
+Como de costume, para fins de fixação, documentei cada uma das 4 questões, separei minhas respostas com justificativas claras usando as minhas próprias palavras, e tirei prints de todo o processo até o resultado final de aprovação.
+
+🏆 *Você pode conferir o documento com o registro completo deste questionário, junto com as imagens, na pasta de desafios:* [Desafio do Módulo 2](./desafios/modulo-02-questionario-pratico/questionario-modulo-02.md)
