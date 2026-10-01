@@ -54,6 +54,10 @@ itau-java-ia-bootcamp/
     │   ├── anotacoes.md
     │   ├── desafios/
     │   └── exemplos/
+    ├── 04-introducao-a-engenharia-de-prompts/
+    │   ├── README.md
+    │   ├── anotacoes.md
+    │   └── exemplos/
     └── 06-mentoria-live-de-abertura-da-experiencia-itau/
         ├── README.md
         └── certificado/
