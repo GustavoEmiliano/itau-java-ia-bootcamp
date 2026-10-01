@@ -15,6 +15,7 @@ Compreender os fundamentos da Engenharia de Prompts e aprender na prática como 
 ### Módulo 2: Visão Geral da Engenharia de Prompts
 - [Aula 1: Como os Modelos de Linguagem "Entendem" um Prompt?](./anotacoes.md#aula-1-como-os-modelos-de-linguagem-entendem-um-prompt)
 - [Aula 2: Como os Modelos de Linguagem "Lembram" do que foi Dito?](./anotacoes.md#aula-2-como-os-modelos-de-linguagem-lembram-do-que-foi-dito)
+- [Aula 3: Elementos Essenciais de um Bom Prompt](./anotacoes.md#aula-3-elementos-essenciais-de-um-bom-prompt)
 
 ---
 *(Mais aulas e notas serão adicionadas conforme o andamento do curso)*

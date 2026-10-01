@@ -213,3 +213,46 @@ Se essa mesma conversa sobre jogos se prolongasse por muitas interações, o ass
 Existem hoje funcionalidades extras para contornar isso, como a função de *Memória* e *Instruções Personalizadas* (Custom Instructions) do ChatGPT, que permitem salvar preferências ou diretrizes fixas que o modelo nunca vai apagar da sua lousa.
 
 Na próxima aula, vamos juntar tudo o que vimos até aqui e aprender quais são os elementos essenciais que compõem um bom prompt!
+
+---
+
+## Aula 3: Elementos Essenciais de um Bom Prompt
+
+**O que aprendi nesta aula:**
+Para detalhar os principais elementos de um bom prompt, a instrutora utilizou um exemplo prático muito dinâmico: a criação de uma história para uma campanha de RPG de mesa. 
+
+Se juntarmos os 5 elementos abaixo, teremos um comando estruturado perfeito. Isso garante que a IA entenda perfeitamente a sua intenção, siga o formato desejado e não cometa "alucinações" (respostas fora do escopo).
+
+**Os 5 Elementos Essenciais:**
+
+1. **Instrução Clara:**
+   É a tarefa específica que você quer que o modelo realize. Deve ser direta e evitar qualquer ambiguidade, para que o modelo não tenha uma interpretação errada do objetivo principal.
+   - *No nosso prompt:* `"Crie uma história inicial para uma campanha de RPG de fantasia, envolvendo um grupo de aventureiros presos em uma cidade amaldiçoada."`
+
+2. **Contexto Adequado:**
+   É o pano de fundo. Ele fornece as circunstâncias, o cenário e o clima da situação, ajudando o modelo a balizar a profundidade e o estilo da resposta.
+   - *No nosso prompt:* `"A cidade foi tomada por uma maldição que impede qualquer um de sair. Os moradores estão desaparecendo misteriosamente, e as sombras parecem ganhar vida. Os jogadores são aventureiros que chegaram à cidade pouco antes da maldição começar, em busca de tesouros escondidos."`
+
+3. **Exemplos (Demonstração):**
+   Dar um exemplo do que você espera funciona como um mapa. Isso guia a criatividade da IA para a direção exata da narrativa ou da solução que você idealizou.
+   - *No nosso prompt:* `"Por exemplo, a história pode começar com os aventureiros sendo atacados por sombras vivas na entrada da cidade, forçando-os a buscar refúgio na taberna local. Lá, eles encontram um velho contador de histórias que fala sobre uma relíquia perdida que pode quebrar a maldição."`
+
+4. **Dados de Entrada (Inputs):**
+   São as variáveis, características ou entidades específicas que a IA é obrigada a incluir na resposta para torná-la personalizada.
+   - *No nosso prompt:* `"Os aventureiros incluem: um ladino sarcástico, um clérigo com uma conexão misteriosa com as sombras, um bárbaro impulsivo e um mago que busca conhecimento proibido. O vilão principal é uma figura encapuzada que manipula a maldição das sombra."`
+
+5. **Formato de Saída:**
+   Como você quer receber essa resposta? Definir o tamanho, o estilo ou formato (tabela, tópicos, parágrafos) evita que a IA entregue um texto longo ou resumido demais.
+   - *No nosso prompt:* `"A história deve ter de 2 a 3 parágrafos, começando com uma introdução impactante, seguida pelo primeiro desafio e um gancho final que motive os jogadores a explorar a cidade."`
+
+**O Resultado na Prática:**
+Quando enviamos esse prompt super estruturado para a LLM, notamos que o modelo sabe *exatamente* como construir e formatar a nossa resposta. Com os 5 elementos combinados (Instrução, Contexto, Exemplo, Dados e Formato), a IA processou a história com os personagens certos e finalizou com o gancho perfeito, exatamente como solicitado!
+
+<br>
+<div align="center">
+  <em>Resultado da IA gerando a História de RPG</em><br>
+  <img src="./exemplos/modulo-02-aula-03/output-historia-gerada-prompt.png" alt="História gerada a partir do prompt estruturado" width="600">
+  <br>
+  <sup>Fonte: Autoral (2026)</sup>
+</div>
+<br>
